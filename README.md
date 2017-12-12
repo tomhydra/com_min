@@ -1,1 +1,2 @@
-# com_min
+
+# COM_MIN algorithm implementation
